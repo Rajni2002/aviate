@@ -1,0 +1,5 @@
+.Item {
+  border-radius: 1rem !important;
+  background: #f1f1f1 !important;
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff !important;
+}
